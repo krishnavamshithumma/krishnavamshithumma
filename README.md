@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Vamshi Thumma</h1>
 <h3 align="center">I like both data and problems because I love solving them.</h3>
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **Data analysis and Deep learning**
 
 - 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Krishnavamshi-Thumma](https://codebasics.io/portfolio/Krishnavamshi-Thumma)
 
